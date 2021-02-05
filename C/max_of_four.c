@@ -4,7 +4,6 @@ int max_of_four(int num1, int num2, int num3, int num4);
 
 int main()
 {
-    int num1, num2, num3, num4;
     int res = max_of_four(10, 29, 83, 46);
     printf("%d", res);
 
